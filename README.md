@@ -90,9 +90,7 @@ To ensure quality and integrity, I performed the following:
 
 <a href="https://www.linkedin.com/posts/john-gaius-m_dataanalytics-powerbi-financialliteracy-activity-7327231747228676096-SJO6?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwTWvwBrwno3DC96otPksttbAeLF72I-bQ">See Live Video Analysis</a>
 
-![Investment Preference Analysis](https://github.com/user-attachments/assets/348e498c-0947-493b-bc10-c65c86a85156)
-
-
+![Investment Preference Image](https://github.com/user-attachments/assets/ced1fc54-5427-483f-8cf5-7e495c6e3101)
 
 ---
 ## Final Note
